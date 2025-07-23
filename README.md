@@ -57,9 +57,9 @@ O terminal mostrará os dados extraídos, e o arquivo 'resultado.json' será cri
 ```
 
 ## Arquivos
-scraper.js — código principal
-resultado.json — arquivo com os dados extraídos
-package.json — dependências do projeto
+- scraper.js — código principal
+- resultado.json — arquivo com os dados extraídos
+- package.json — dependências do projeto
 
 ## Observação
 Este projeto foi desenvolvido como parte de um desafio técnico proposto pela Neogrid para o processo seletivo de estágio em desenvolvimento Back-End.
