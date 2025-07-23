@@ -33,10 +33,14 @@ cd scraper-netshoes
 ```
 
 ### 2. Instale as dependências
+```
 npm install
+```
 
 ### 3. Execute o script
+```
 node scraper.js
+```
 
 ### 4. Resultado
 O terminal mostrará os dados extraídos, e o arquivo 'resultado.json' será criado na raiz do projeto.
