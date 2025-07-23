@@ -46,12 +46,15 @@ node scraper.js
 O terminal mostrará os dados extraídos, e o arquivo 'resultado.json' será criado na raiz do projeto.
 
 ### 5. Exemplo de saída
+
+```json
 {
   "titulo": "Tênis Adidas Breaknet Masculino - Azul+Branco",
   "preco": "R$ 199,99",
   "imagem": "https://static.netshoes.com.br/produtos/tenis-adidas-breaknet-masculino/58/NQQ-4378-058/NQQ-4378-058_zoom1.jpg?ts=1750257656&ims=544x",
   "descricao": "*Para um melhor ajuste nos pés, recomendamos a compra de um tamanho menor do que o seu usual. Forma grande.* Estilo atemporal para diversos momentos e combinações. Com modelo clássico, o tênis adidas Breaknet traz as listras icônicas da marca nas laterais, com opções de cores lisas e também animal print. Desenvolvido com material resistente e firme, traz perfuros para respirabilidade, forro acolchoado e solado resistente ao desgaste. Um tênis masculino versátil para usar com peças que vão da calça jeans à calça jogger ou bermudas masculinas. Conte com a Adidas para complementar o seu look urbano!"
 }
+```
 
 ## Arquivos
 scraper.js — código principal
