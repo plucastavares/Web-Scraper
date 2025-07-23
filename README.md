@@ -29,7 +29,7 @@ Essas informações são salvas no arquivo `resultado.json` e também exibidas n
 ### 1. Clone o repositório
 ```
 git clone https://github.com/plucastavares/Web-Scraper.git
-cd scraper-netshoes
+cd Web-Scraper
 ```
 
 ### 2. Instale as dependências
